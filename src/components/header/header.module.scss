@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    ul {
+        display: flex;
+        list-style: none;
+        li {
+            margin: .9rem;
+            a {
+                text-decoration: none;
+                color: #808080;
+            }
+        }
+    }
+}
